@@ -1,4 +1,4 @@
 AnsiToUnicode
 =============
 
-A tool for converting ansi from unicode or from unicode to ansi
+一个ansi和unicode编码互相转换的工具
